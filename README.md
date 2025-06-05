@@ -45,14 +45,7 @@ These hands-on projects helped me apply theoretical knowledge to real-world data
 I'm actively seeking opportunities to collaborate, contribute, and grow in the field of **Data Science** and **Artificial Intelligence**. Feel free to connect or reach out:
 
 - 📍 Location: Hyderabad, Telangana, India  
-- 📧 Email: [Add your email here]  
-- 💼 LinkedIn: [Add your LinkedIn URL here]
+- 📧 Email: [earuvateja@gmail.com]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/earuva-teja-5b5146298/]
 
 ---
-
-## 📁 Repository Structure
-
-```plaintext
-.
-├── certifications
-└── README.md
