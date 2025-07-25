@@ -16,9 +16,9 @@ With a strong focus on continuous learning, I have completed several high-value 
 
 The following certifications are part of this repository:
 
-- ✅ IBM Data Science Professional Certificate
+- ✅ Data Science Professional Certificate
 - ✅ Simplilearn Data Science with Python
-- ✅ IBM Machine Learning with Python
+- ✅ Machine Learning with Python
 - ✅ Simplilearn Applied Data Science with R
 - ✅ Additional IBM & Simplilearn issued credentials
 
